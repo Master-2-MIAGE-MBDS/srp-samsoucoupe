@@ -16,3 +16,6 @@ L'application doit offrir les fonctionnalités suivantes :
 
 Utilisez le **principe de responsabilité unique (SRP)** pour structurer votre code.
 Le projet fourni contient une implémentation qui laisse à désirer, à vous corriger ce problème !
+
+
+
